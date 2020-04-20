@@ -1,0 +1,5 @@
+name: CiberAPI
+version: R0.1-SNAPSHOT
+main: com.ciber.api.CiberAPI
+author: Ciber
+description: Api para desenvolvimento de plugins de minecraft 1.8
