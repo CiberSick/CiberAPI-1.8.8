@@ -57,8 +57,8 @@ public class CiberConfig {
         config.set(path, value);
     }
 
-    public double getDouble(double path) {
-        return config.getDouble(String.valueOf(path));
+    public double getDouble(String path) {
+        return config.getDouble(path);
     }
 
     public void setDouble(String path, double value) {
